@@ -6,15 +6,15 @@ A comprehensive analysis of Rome's historical weather patterns from 1950 to 2022
 
 ## Quick Links
 
-- [Interactive Dashboard](https://your-dashboard-url-here)
-- [Complete Jupyter Notebook](https://github.com/your-repo/rome-weather-analysis/blob/main/analysis.ipynb)
-- [Dataset](https://github.com/your-repo/rome-weather-analysis/blob/main/Roma_weather.csv)
+- [Interactive Dashboard](https://roma-weather-analysis.streamlit.app/)
+- [Complete Jupyter Notebook](./Roma_Weather_Analysis.ipynb)
+- [Dataset](./Roma_weather.csv)
 
 ## Key Findings
 
 ### Temperature Trends and Patterns
 
-![Temperature trends in Rome from 1950-2022](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Temperature%20Trends-sVGqITSv8of8ScUyZdhNjltVGtv0ui.png)
+![Temperature trends in Rome from 1950-2022](./Temperature%20Trends.png)
 
 The analysis reveals significant temperature patterns in Rome:
 - Clear seasonal temperature cycles
@@ -24,7 +24,7 @@ The analysis reveals significant temperature patterns in Rome:
 
 ### Precipitation Analysis
 
-![Monthly precipitation patterns in Rome](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/monthly_precipitation-PtuzTOiMacbRNn4PQqH8H2aX6dhzUp.png)
+![Monthly precipitation patterns in Rome](./monthly_precipitation.png)
 
 Key precipitation findings include:
 - Highest rainfall typically occurs in February (~225mm)
@@ -34,7 +34,7 @@ Key precipitation findings include:
 
 ### Variable Correlations
 
-![Correlation heatmap of weather variables](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/correlation_heatmap-ruOXDTvMA9sz9xCndXfBwXarPwyqx0.png)
+![Correlation heatmap of weather variables](./correlation_heatmap.png)
 
 The correlation analysis shows:
 - Strong positive correlation (0.99) between average and maximum temperatures
@@ -43,7 +43,7 @@ The correlation analysis shows:
 
 ### Comprehensive Analysis Dashboard
 
-![Comprehensive weather analysis dashboard](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/comprehensive_weather_analysis-DfPjPeuadfAw2QiWtJA8Yg4nuNs7Cu.png)
+![Comprehensive weather analysis dashboard](./comprehensive_weather_analysis.png)
 
 The dashboard provides:
 - Long-term temperature trends
